@@ -1,0 +1,12 @@
+.container-all{
+    display: flex;
+    justify-content: space-between;
+}
+.internal-container{
+    background-color: rgb(225, 225, 250);
+    height: 50px;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}

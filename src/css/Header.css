@@ -1,0 +1,25 @@
+header{
+    background-color: rgb(3, 3, 144);
+    height: 50px;
+    width: 100%;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 15px;
+    /* padding: 5px 20px; */
+}
+.login{
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+    
+}
+.register{
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}
+.login:hover, .register:hover{
+    text-decoration: underline;
+}

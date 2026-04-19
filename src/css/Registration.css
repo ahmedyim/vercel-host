@@ -1,0 +1,16 @@
+form{
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background: white;
+    width: 350px;
+    /* height: 350px; */
+}
+.title{
+    font-size: 25px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-weight: bold;
+}

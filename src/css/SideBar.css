@@ -1,0 +1,23 @@
+.sidebar{
+    background-color: darkblue;
+    color: white;
+    min-height: 100vh;
+    width: 20%;
+}
+ul li .lists{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-size: 15px;
+}
+ul li .lists:hover{
+    text-decoration: underline;
+}
+ul li{
+    list-style: none;
+    padding: 10px;
+}
+ul{
+    padding: 10px;
+    margin: 20px;
+}
